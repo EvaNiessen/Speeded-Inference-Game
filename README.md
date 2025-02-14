@@ -1,6 +1,6 @@
 # Speeded-Inference-Game
 
-Code to run the Speeded Inference Game (short SIG), here presented as Evaluation Edition.
+Code to run the Speeded Inference Game (short SIG), here presented as Evaluation Edition. Please see preview videos to get a short impression of the SIG.
 
 Necessary modules for PsychoPy3 (running with Python 3) are configparser, numpy and imutils.
 
