@@ -1,10 +1,10 @@
-# Speeded-Inference-Game
+# Speeded-Inference-Task
 
-Code to run the Speeded Inference Game (short SIG), here presented as Evaluation Edition. Please see preview videos to get a short impression of the SIG.
+Code to run the Speeded Inference Task (short SIT), here presented as Evaluation Edition. Please see preview videos to get a short impression of the SIT.
 
 Necessary modules for PsychoPy3 (running with Python 3) are configparser, numpy and imutils.
 
-Start SIG from 'main' script. Enter participant ID at the beginning of the script (logfiles will be saved with this extension).
+Start SIT from 'main' script. Enter participant ID at the beginning of the script (logfiles will be saved with this extension).
 
 Setting file should be updated before running. Below is an explanation of each variable:
 
