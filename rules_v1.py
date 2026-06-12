@@ -1,6 +1,6 @@
-content = [ ("Herzlich Willkommen zu unserem Experiment!", "Bilder/Rules/SIG2.png"),
+content = [ ("Herzlich Willkommen zu unserem Experiment!", "Bilder/Rules/SIT2.png"),
 
-	("Ihre Aufgabe wird es sein, so schnell und so richtig wie möglich auf gezeigte Bilder zu reagieren. Bitte nutzen Sie im gesamten Experiment die Tasten der rechten und linken Zeige- und Mittelfinger.", "Bilder/Rules/SIG2.png"),
+	("Ihre Aufgabe wird es sein, so schnell und so richtig wie möglich auf gezeigte Bilder zu reagieren. Bitte nutzen Sie im gesamten Experiment die Tasten der rechten und linken Zeige- und Mittelfinger.", "Bilder/Rules/SIT2.png"),
 
 	("Vier Kategorien von Zielen werden dabei die ganze Zeit unverändert sichtbar sein: ein Ball, ein Eis, ein Sessel und ein Vogel. Jedem Ziel ist dabei eine bestimmte Farbe zugeordnet. Oben sehen Sie eine beispielhafte Zuordnung.", "Bilder/Rules/Ziele.png"),
 
@@ -28,7 +28,7 @@ content = [ ("Herzlich Willkommen zu unserem Experiment!", "Bilder/Rules/SIG2.pn
 
 	("Sollten Sie es schaffen, unseren Highscore zu knacken, wartet eine Überraschung auf Sie!", "Bilder/Rules/Bildschirmfoto6.png"),
 
-	("Wenn Sie keine Fragen mehr haben, starten wir zuerst mit einer Übung und einem Training, bevor das eigentliche Experiment losgeht. Viel Erfolg!", "Bilder/Rules/SIG2.png")]
+	("Wenn Sie keine Fragen mehr haben, starten wir zuerst mit einer Übung und einem Training, bevor das eigentliche Experiment losgeht. Viel Erfolg!", "Bilder/Rules/SIT2.png")]
 	
 
 
